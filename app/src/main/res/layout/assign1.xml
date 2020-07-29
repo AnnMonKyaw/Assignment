@@ -31,7 +31,7 @@
             android:src="@drawable/ic_baseline_star_24"
             android:layout_toRightOf="@+id/txt1"
             android:layout_marginTop="70px"
-            android:layout_marginLeft="50dp"
+            android:layout_marginLeft="40dp"
             />
         <TextView
             android:id="@+id/txt2"
@@ -107,7 +107,7 @@
             android:src="@drawable/ic_baseline_share_24"
             android:layout_marginTop="80px"
             android:layout_toRightOf="@+id/img3"
-            android:layout_marginLeft="30dp"
+            android:layout_marginLeft="20dp"
             android:paddingRight="50px"
             />
         <TextView
@@ -116,7 +116,7 @@
             android:text="SHARE"
             android:layout_below="@+id/img4"
             android:layout_toRightOf="@+id/txt5"
-            android:layout_marginLeft="70dp"
+            android:layout_marginLeft="60dp"
             android:textColor="@color/colorPrimaryDark"
             android:textSize="20sp"
             />
