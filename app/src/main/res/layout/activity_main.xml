@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#90E0EA"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Hello World !!! "
+    android:textSize="50sp"
+    android:textColor="#707818"
+    android:gravity="center"
+   />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Android"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:textColor="#0BA611"
+        android:textStyle="italic"
+        />
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="50px"
+    />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        android:textSize="20dp"
+        android:background="#6D8353"
+        android:textColor="#E7F3F4"
+        android:paddingHorizontal="50dp"
+        />
+</LinearLayout>
