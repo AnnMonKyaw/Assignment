@@ -2,4 +2,5 @@
     <string name="app_name">MyApp</string>
     <string name="one">One</string>
     <string name="description">ToDo</string>
+    <string name="package_shipping"><![CDATA[Package & Shipping]]></string>
 </resources>

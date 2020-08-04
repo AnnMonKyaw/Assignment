@@ -117,13 +117,15 @@
             android:layout_below="@+id/img4"
             android:layout_toRightOf="@+id/txt5"
             android:layout_marginLeft="60dp"
+            android:gravity="center"
+            android:textAlignment="center"
             android:textColor="@color/colorPrimaryDark"
             android:textSize="20sp"
             />
     </RelativeLayout>
 <LinearLayout
     android:layout_width="match_parent"
-    android:layout_height="wrap_content">
+    android:layout_height="600px">
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
